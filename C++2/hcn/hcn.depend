@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1417737962 source:d:\c++\hcn\hcn.cpp
+	<iostream>
+	<stdio.h>
+	<memory.h>
+
+1417734946 source:d:\c++\hcn\hcn.inp
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1433606720 source:f:\c++\cflc2015\d.cpp
+	<algorithm>
+	<cassert>
+	<cmath>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	<iostream>
+	<map>
+	<queue>
+	<set>
+	<string>
+	<vector>
+

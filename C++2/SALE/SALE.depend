@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1418739103 source:f:\c++\sale\sale.cpp
+	<iostream>
+	<stdio.h>
+	<cmath>
+

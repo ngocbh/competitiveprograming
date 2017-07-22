@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1433080666 source:f:\c++\bida\bida.cpp
+	<iostream>
+	<stdio.h>
+	<cmath>
+	<memory.h>
+

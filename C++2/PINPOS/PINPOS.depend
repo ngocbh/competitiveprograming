@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1418487284 source:e:\c++\pinpos\pinpos.cpp
+	<iostream>
+	<stdio.h>
+	<cmath>
+

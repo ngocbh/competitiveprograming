@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1435928316 source:f:\c++\candy3\candy.cpp
+	<algorithm>
+	<cstdio>
+	<iostream>
+	<vector>
+

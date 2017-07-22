@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1446219789 source:e:\c++\gh\gh.cpp
+	<iostream>
+	<stdio.h>
+

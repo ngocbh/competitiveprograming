@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1418267290 source:d:\c++\dcdbk\dcdbk.cpp
+	<iostream>
+	<stdio.h>
+	<memory.h>
+	<algorithm>
+	<stack>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1419895830 source:d:\c++\parigames\parigame.cpp
+	<iostream>
+	<stdio.h>
+	<memory.h>
+	<cmath>
+

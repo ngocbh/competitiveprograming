@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1419377470 source:d:\c++\one\one.cpp
+	<iostream>
+	<stdio.h>
+	<cmath>
+	<memory.h>
+	<vector>
+

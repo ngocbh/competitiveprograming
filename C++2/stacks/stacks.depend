@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1416089142 source:d:\c++\stacks\stacks.cpp
+	<fstream>
+	<stack>
+

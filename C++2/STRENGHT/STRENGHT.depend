@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1419744904 source:d:\c++\strenght\strenght.cpp
+	<stdio.h>
+	<iostream>
+	<stdio.h>
+

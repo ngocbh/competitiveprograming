@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1417665470 source:d:\c++\g2w\g2w.cpp
+	<iostream>
+	<stdio.h>
+	<vector>
+	<queue>
+	<memory.h>
+

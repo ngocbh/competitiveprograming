@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1416281650 source:d:\c++\cut\cut.cpp
+	<fstream>
+

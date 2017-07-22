@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1419723448 source:d:\c++\lcd\lcd.cpp
+	<iostream>
+	<stdio.h>
+	<cmath>
+	<memory.h>
+	<vector>
+	<queue>
+	<string>
+

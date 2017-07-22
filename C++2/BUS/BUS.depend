@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1418634197 source:e:\c++\bus\bus.cpp
+	<iostream>
+	<cmath>
+	<algorithm>
+	<cstdio>
+	<stdlib.h>
+
+1418637176 source:f:\c++\bus\bus.cpp
+	<iostream>
+	<cmath>
+	<algorithm>
+	<cstdio>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1417561786 source:d:\c++\clock\clock.cpp
+	<iostream>
+	<stdio.h>
+

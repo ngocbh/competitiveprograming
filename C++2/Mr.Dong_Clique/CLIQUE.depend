@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1419219183 source:f:\c++\clique\clique.cpp
+	<iostream>
+	<stdio.h>
+	<cmath>
+	<algorithm>
+	<memory.h>
+

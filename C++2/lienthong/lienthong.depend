@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1417733082 source:d:\c++\lienthong\lienthong.cpp
+	<iostream>
+	<stdio.h>
+	<memory.h>
+

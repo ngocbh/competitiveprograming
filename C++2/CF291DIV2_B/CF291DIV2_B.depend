@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1448854222 source:e:\c++\cf291div2_b\b.cpp
+	<iostream>
+	<stdio.h>
+	<map>
+	<algorithm>
+

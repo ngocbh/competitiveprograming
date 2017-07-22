@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1419046460 source:d:\c++\ddd\ddd.cpp
+	<iostream>
+	<stdio.h>
+	<cmath>
+	<memory.h>
+	<algorithm>
+

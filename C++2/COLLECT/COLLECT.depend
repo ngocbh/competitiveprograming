@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1447818624 source:e:\c++\collect\collect.cpp
+	<iostream>
+	<stdio.h>
+	<vector>
+	<queue>
+	<algorithm>
+	<map>
+

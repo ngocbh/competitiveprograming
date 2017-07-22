@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1429636249 source:f:\c++\express\express.cpp
+	<iostream>
+	<stdio.h>
+	<cmath>
+	<algorithm>
+	<memory.h>
+

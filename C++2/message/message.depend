@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1417839896 source:d:\c++\message\message.cpp
+	<iostream>
+	<stdio.h>
+	<memory.h>
+	<vector>
+

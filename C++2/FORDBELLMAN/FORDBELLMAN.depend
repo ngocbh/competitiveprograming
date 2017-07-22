@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1419563680 source:f:\c++\fordbellman\bellman.cpp
+	<iostream>
+	<stdio.h>
+	<queue>
+	<vector>
+	<cmath>
+	<memory.h>
+

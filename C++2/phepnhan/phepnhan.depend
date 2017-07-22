@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1414746582 source:e:\ngoc\phepnhan\phepnhan.cpp
+	<stdio.h>
+	<cmath>
+	<iostream>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1419845018 source:d:\c++\vobignum\vobignum.cpp
+	<iostream>
+	<string>
+	<stdio.h>
+	<cmath>
+	<memory.h>
+

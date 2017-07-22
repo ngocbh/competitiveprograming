@@ -1,0 +1,55 @@
+#include <iostream>
+#include <stdio.h>
+#include <cstring>
+#include <vector>
+#include <algorithm>
+using namespace std;
+struct point
+{
+    int x1,x2,y;
+} points[1010];
+bool operator<(const point& a,const point& b)
+{
+    return a.y>b.y;
+}
+int N,X,Y,MAX;
+int  num[1010][2];
+int dfs(int i,int a,int x)
+{
+    if(num[i][a]!=-1)
+        return num[i][a];
+    int left=100000000,right=100000000;
+        bool flag=true;
+    for(int j=i+1;j<=N;j++)
+    {
+        if(points[i].y-points[j].y>MAX)
+            {flag=false;break;}
+        if(x>=points[j].x1&&x<=points[j].x2){
+        left=dfs(j,0,points[j].x1)+points[i].y-points[j].y+x-points[j].x1;
+        right=dfs(j,1,points[j].x2)+points[i].y-points[j].y+points[j].x2-x;
+        flag=false;
+        break;
+        }
+    }
+    num[i][a]=min(left,right);
+    if(flag&&points[i].y<=MAX)
+        num[i][a]=points[i].y;
+    return num[i][a];
+
+}
+int main()
+{
+    int t;
+    cin>>t;
+    while(t--)
+    {
+    memset(num,-1,sizeof num);
+    scanf("%d%d%d%d",&N,&X,&Y,&MAX);
+    points[0].x1=X;points[0].x2=X;points[0].y=Y;
+    for(int i=1;i<=N;i++)
+        scanf("%d%d%d",&points[i].x1,&points[i].x2,&points[i].y);
+    sort(points,points+N+1);
+    cout<<dfs(0,1,X)<<endl;
+    }
+    return 0;
+}

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1418462638 source:e:\c++\divisors\divisors.cpp
+	<iostream>
+	<stdio.h>
+	<cmath>
+

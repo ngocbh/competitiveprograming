@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1418371356 source:e:\c++\domino\domino.cpp
+	<iostream>
+	<stdio.h>
+	<algorithm>
+	<memory.h>
+	<math.h>
+

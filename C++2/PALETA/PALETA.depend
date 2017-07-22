@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1442161559 source:f:\c++\paleta\paleta.cpp
+	<cstdio>
+	<set>
+	<iostream>
+

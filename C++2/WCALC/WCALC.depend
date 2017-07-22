@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1420275184 source:g:\c++\wcalc\wcalc.cpp
+	<iostream>
+	<cmath>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1417041538 source:d:\c++\mickey1\mickey.cpp
+	<iostream>
+	<algorithm>
+	<string.h>
+	<stdlib.h>
+

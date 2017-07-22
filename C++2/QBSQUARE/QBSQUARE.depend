@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1420322654 source:d:\c++\qbsquare\qbsquare.cpp
+	<iostream>
+	<stdio.h>
+	<stack>
+	<memory.h>
+

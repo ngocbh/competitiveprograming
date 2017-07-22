@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1440750079 source:f:\c++\nearest\nearest.cpp
+	<iostream>
+	<stdio.h>
+	<cmath>
+	<time.h>
+	<algorithm>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1419762046 source:d:\c++\voeasy\voeasy.cpp
+	<iostream>
+	<stdio.h>
+	<cmath>
+	<memory.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1443924117 source:f:\c++\cf323div2_d\d.cpp
+	<iostream>
+	<algorithm>
+	<stdio.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1417323166 source:d:\c++\umbrela\umbrella.cpp
+	<fstream>
+	<algorithm>
+	<memory.h>
+	<cmath>
+

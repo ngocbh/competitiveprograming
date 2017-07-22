@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1442496565 source:f:\c++\cau5\cau5.cpp
+	<fstream>
+	<memory.h>
+	<stdio.h>
+	<algorithm>
+

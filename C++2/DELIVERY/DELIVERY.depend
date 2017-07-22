@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1419479816 source:d:\c++\delivery\delivery.cpp
+	<iostream>
+	<stdio.h>
+	<algorithm>
+

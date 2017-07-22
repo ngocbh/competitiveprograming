@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1418374910 source:e:\c++\lastnum\lastnum.cpp
+	<iostream>
+	<stdio.h>
+	<memory.h>
+

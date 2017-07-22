@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1419787469 source:f:\c++\pairs\pairs.cpp
+	<iostream>
+	<stdio.h>
+	<memory.h>
+	<cmath>
+

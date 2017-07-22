@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1419564859 source:f:\c++\floyd\floyd.cpp
+	<iostream>
+	<stdio.h>
+	<cmath>
+

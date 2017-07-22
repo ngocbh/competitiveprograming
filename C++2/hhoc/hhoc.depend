@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1418079430 source:d:\c++\hhoc\hhoc.cpp
+	<iostream>
+	<stdio.h>
+	<cmath>
+

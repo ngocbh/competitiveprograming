@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1419848848 source:d:\c++\vorain\vorain.cpp
+	<iostream>
+	<stdio.h>
+	<memory.h>
+	<cmath>
+	<vector>
+

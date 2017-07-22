@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1419390532 source:d:\c++\brick\brick.cpp
+	<iostream>
+	<stdio.h>
+	<cmath>
+

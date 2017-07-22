@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1416046834 source:d:\c++\cpi\cpi.cpp
+	<fstream>
+	<iomanip>
+

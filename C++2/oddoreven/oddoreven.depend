@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1416125206 source:d:\c++\oddoreven\oddoreven.cpp
+	<fstream>
+	<cmath>
+

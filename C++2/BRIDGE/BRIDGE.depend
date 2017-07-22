@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1419998232 source:d:\c++\bridge\bridge.cpp
+	<iostream>
+	<stdio.h>
+	<cmath>
+	<memory.h>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1418611207 source:e:\c++\itsle\itsle.cpp
+	<iostream>
+	<stdio.h>
+	<memory.h>
+	<cmath>
+
+1419408487 source:f:\c++\itsle\intsle.cpp
+	<iostream>
+	<stdio.h>
+	<memory.h>
+	<cmath>
+

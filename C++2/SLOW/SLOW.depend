@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1419913552 source:d:\c++\slow\slow.cpp
+	<iostream>
+	<stdio.h>
+	<memory.h>
+	<cmath>
+	<memory.h>
+	<vector>
+

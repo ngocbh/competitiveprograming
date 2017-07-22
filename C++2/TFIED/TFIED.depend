@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1440203875 source:f:\c++\tfied\tfied.cpp
+	<iostream>
+	<stdio.h>
+	<cmath>
+	<vector>
+	<algorithm>
+	<memory.h>
+

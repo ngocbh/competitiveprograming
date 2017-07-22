@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1418636656 source:e:\c++\numpoly\numpoly.cpp
+	<iostream>
+	<stdio.h>
+	<memory.h>
+	<cmath>
+	<vector>
+	<algorithm>
+
+1418637607 source:f:\c++\numpoly\numpoly.cpp
+	<iostream>
+	<stdio.h>
+	<memory.h>
+	<cmath>
+	<vector>
+	<algorithm>
+

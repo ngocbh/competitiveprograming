@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1417924350 source:d:\c++\desert\desert.cpp
+	<iostream>
+	<stdio.h>
+	<memory.h>
+	<cmath>
+

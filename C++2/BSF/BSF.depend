@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1418889618 source:f:\c++\bsf\bsf.cpp
+	<iostream>
+	<stdio.h>
+	<cmath>
+	<memory.h>
+	<algorithm>
+

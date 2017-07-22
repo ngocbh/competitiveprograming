@@ -1,0 +1,75 @@
+#include <iostream>
+#include <cstdio>
+#include <cstring>
+#include <sstream>
+#include <algorithm>
+#include <cmath>
+#include <map>
+#include <functional>
+#include <queue>
+#include <vector>
+#include <cstdlib>
+#include <string>
+#include <set>
+#include <climits>
+#include <bitset>
+#include <list>
+#include <stack>
+#include <cassert>
+using namespace std;
+#define SPEED_UP iostream::sync_with_stdio(false);
+#define rep(i, s, t) for(int (i)=(s);(i)<=(t);++(i))
+#define urep(i, s, t) for(int (i)=(s);(i)>=(t);--(i))
+
+typedef long long LL;
+const int inf  = INT_MAX/2;
+
+const int Maxn = 1e6;
+const LL Mod   = 1000000007;
+
+int k;
+
+int cnt = 0;
+inline void pt(int x, int y) {
+    //++ cnt;
+    cout << x << ' ' << y << endl;
+}
+
+void my_rail_gun ( int s, int t ) {
+    rep(i, s+1, t-2) pt ( s, i );
+    pt (t-1, t);
+    rep(i, s+1, t-2) pt (i, t-1);
+    rep(i, s+1, t-2) pt (i, t);
+    //cout << "hehe" << endl;
+    rep(i, s+1, t-2) rep(j, i+2, t-2) {
+        pt (i, j);
+    }
+    for ( int i=s+2;i<t-2;i+=2 ) pt (i, i+1);
+}
+
+int main() {
+#ifndef ONLINE_JUDGE
+    freopen("input.in", "r", stdin);
+    //freopen("out.txt", "w", stdout);
+#endif
+    SPEED_UP
+    cin >> k;
+    if ( (k&1) == 0 )
+        cout << "NO";
+    else {
+        cout << "YES\n";
+        if ( k == 1 ) {
+            cout << 2 << ' ' << 1 << endl << 1 << ' ' << 2 << endl;
+        } else {
+            int n = 2*k+4;
+            int m = n*k / 2;
+            cout << n << ' ' << m << endl;
+            my_rail_gun(1, k+2);
+            my_rail_gun(k+3, n);
+            //cout << "hehe" << endl;
+            pt (1, k+3);
+            //cout << "cnt: " << cnt << endl;
+        }
+    }
+    return 0;
+}

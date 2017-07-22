@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1417476192 source:d:\c++\hiway\hiway.cpp
+	<fstream>
+	<vector>
+	<memory.h>
+	<iostream>
+

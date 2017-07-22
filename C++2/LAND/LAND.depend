@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1418836130 source:f:\c++\land\land.cpp
+	<iostream>
+	<stdio.h>
+	<cmath>
+	<memory.h>
+	<algorithm>
+

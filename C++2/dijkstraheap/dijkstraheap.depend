@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1418180674 source:d:\c++\dijkstraheap\dijkstra.cpp
+	<iostream>
+	<stdio.h>
+	<queue>
+	<vector>
+	<memory.h>
+

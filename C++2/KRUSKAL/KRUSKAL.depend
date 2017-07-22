@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1419744788 source:f:\c++\kruskal\kruskal.cpp
+	<iostream>
+	<stdio.h>
+	<cmath>
+	<memory.h>
+	<algorithm>
+	<queue>
+

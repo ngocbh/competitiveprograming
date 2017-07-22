@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1420317780 source:d:\c++\qbrobot\qbrobot.cpp
+	<iostream>
+	<stdio.h>
+	<vector>
+	<cmath>
+	<memory.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1419373512 source:d:\c++\sum1\sum.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<string>
+	<cmath>
+

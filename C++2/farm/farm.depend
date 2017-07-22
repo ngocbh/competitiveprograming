@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1417858354 source:d:\c++\farm\farm.cpp
+	<iostream>
+	<memory.h>
+	<cmath>
+	<stdio.h>
+

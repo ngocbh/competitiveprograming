@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1429094199 source:f:\c++\floyd_heap\floyd.cpp
+	<iostream>
+	<stdio.h>
+	<cmath>
+	<memory.h>
+	<vector>
+	<queue>
+	<memory.h>
+

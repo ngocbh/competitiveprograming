@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1417592880 source:d:\c++\duhanh\duhanh.cpp
+	<iostream>
+	<stdio.h>
+	<memory.h>
+

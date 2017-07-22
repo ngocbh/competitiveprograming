@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1418332756 source:d:\c++\vmunch\vmunch.cpp
+	<iostream>
+	<stdio.h>
+	<memory.h>
+	<queue>
+	<cmath>
+

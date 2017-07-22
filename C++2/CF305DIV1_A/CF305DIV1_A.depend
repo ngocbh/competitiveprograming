@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1441334442 source:f:\c++\cf305div1_a\a.cpp
+	<iostream>
+	<memory.h>
+	<stdio.h>
+

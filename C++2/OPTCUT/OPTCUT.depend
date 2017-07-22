@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1429023615 source:f:\c++\optcut\optcut.cpp
+	<stdio.h>
+	<stdlib.h>
+

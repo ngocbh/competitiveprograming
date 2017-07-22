@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1414554581 source:e:\ngoc\qtseq\qtseq.cpp
+	<bits/stdc++.h>
+
+1414550865 source:e:\ngoc\qtseq\qtseq1.cpp
+	<iostream>
+

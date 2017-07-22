@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1419461778 source:d:\c++\maxrec\maxrec.cpp
+	<iostream>
+	<stdio.h>
+	<stack>
+	<cmath>
+	<memory.h>
+	<algorithm>
+

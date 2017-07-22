@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1429005367 source:f:\c++\trt\trt.cpp
+	<iostream>
+	<stdio.h>
+	<cmath>
+	<memory.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1418788725 source:f:\c++\number\number.cpp
+	<iostream>
+	<stdio.h>
+	<memory.h>
+	<cmath>
+	<string>
+

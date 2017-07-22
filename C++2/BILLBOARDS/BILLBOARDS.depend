@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1419911880 source:d:\c++\billboards\billboards.cpp
+	<iostream>
+	<stdio.h>
+	<cmath>
+	<vector>
+	<stack>
+

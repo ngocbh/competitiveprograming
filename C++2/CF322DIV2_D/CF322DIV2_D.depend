@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1443436241 source:f:\c++\cf322div2_d\d.cpp
+	<iostream>
+	<stdio.h>
+

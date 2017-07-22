@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1419235312 source:f:\c++\nqueen\nqueen.cpp
+	<iostream>
+	<stdio.h>
+	<memory.h>
+	<cmath>
+

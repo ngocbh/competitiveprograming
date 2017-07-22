@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1419758556 source:d:\c++\vomarble\vomarble.cpp
+	<iostream>
+	<stdio.h>
+	<cmath>
+	<algorithm>
+	<memory.h>
+

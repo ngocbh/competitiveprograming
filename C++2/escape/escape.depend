@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1417316030 source:d:\c++\escape\escape.cpp
+	<fstream>
+	<memory.h>
+

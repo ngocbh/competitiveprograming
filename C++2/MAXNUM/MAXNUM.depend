@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1418743416 source:f:\c++\maxnum\maxnum.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<cmath>
+	<algorithm>
+	<memory.h>
+

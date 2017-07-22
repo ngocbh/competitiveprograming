@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1418703747 source:f:\c++\trenet\trenet.cpp
+	<iostream>
+	<stdio.h>
+	<cmath>
+	<queue>
+	<memory.h>
+

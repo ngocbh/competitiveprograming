@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1419568693 source:f:\c++\bestspot\bestspot.cpp
+	<stdio.h>
+	<cmath>
+	<iostream>
+	<stdio.h>
+	<cmath>
+	<vector>
+	<queue>
+

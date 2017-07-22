@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1429018515 source:f:\c++\lsfight\lsfight.cpp
+	<iostream>
+	<stdio.h>
+	<cmath>
+	<memory.h>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1418912200 source:f:\c++\poly\poly.cpp
+	<iostream>
+	<stdio.h>
+	<cmath>
+	<memory.h>
+
+1419027528 source:d:\c++\poly3\poly.cpp
+	<iostream>
+	<stdio.h>
+	<cmath>
+	<memory.h>
+

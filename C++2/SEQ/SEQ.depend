@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1419459526 source:d:\c++\seq\seq.cpp
+	<iostream>
+	<stdio.h>
+	<cmath>
+	<stdio.h>
+

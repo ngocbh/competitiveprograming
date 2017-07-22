@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1417122522 source:d:\c++\switch\switch.cpp
+	<iostream>
+	<stdio.h>
+	<cmath>
+

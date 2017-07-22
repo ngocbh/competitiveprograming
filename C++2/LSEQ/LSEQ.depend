@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1418743768 source:f:\c++\lseq\lseq.cpp
+	<iostream>
+	<stdio.h>
+	<memory.h>
+	<algorithm>
+

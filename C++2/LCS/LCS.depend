@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1418649376 source:f:\c++\lcs\lcs.cpp
+	<iostream>
+	<stdio.h>
+	<vector>
+	<memory.h>
+	<cmath>
+	<algorithm>
+	<vector>
+

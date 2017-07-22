@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1418162482 source:d:\c++\poly1\poly.cpp
+	<stdio.h>
+	<algorithm>
+	<cmath>
+	<iostream>
+

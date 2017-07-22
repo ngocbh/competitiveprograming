@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1419894000 source:d:\c++\permu\permu.cpp
+	<iostream>
+	<stdio.h>
+	<cmath>
+	<memory.h>
+

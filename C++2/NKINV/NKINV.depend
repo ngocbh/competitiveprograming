@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1420236496 source:d:\c++\nkinv\nkinv.cpp
+	<iostream>
+	<stdio.h>
+	<cmath>
+
